@@ -1,6 +1,11 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/melindaloubser1/gitpod_test)
+
+You can open this repository in Gitpod using the button above to get access to an environment that has Rasa & Rasa X localmode already set up in your browser.
+You will need to create a Gitpod account if you haven't already.
+
 # Retail Example Bot
 
-This is a sample retail bot to help provide starter content, examples of how to implement particular features, and sample use cases. Built using Rasa 2.3.1
+This is a sample retail bot to help provide starter content, examples of how to implement particular features, and sample use cases. Built using Rasa 2.x
 
 ## Install dependencies
 
