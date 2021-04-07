@@ -1,4 +1,4 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/melindaloubser1/gitpod_test)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/melindaloubser1/retail-demo)
 
 You can open this repository in Gitpod using the button above to get access to an environment that has Rasa & Rasa X localmode already set up in your browser.
 You will need to create a Gitpod account if you haven't already.
